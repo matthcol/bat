@@ -29,7 +29,7 @@ public class Bateau {
 
 	@Override
 	public String toString() {
-		return "\\_" + nom + "_/";
+		return "\\" + nom + "/";
 	}
 
 }
